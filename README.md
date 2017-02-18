@@ -2,7 +2,7 @@
 
 This repository hosts the exercises for the course of Stochastic Processes
 taught by [Dr. Michail Loulakis](www.math.ntua.gr/~loulakis/info/Home.html) 
-at the National Technical University of Athens.
+and Dr. Aristides Doumas at the National Technical University of Athens.
 
 The main site of the course, where you can find the book together with other 
 relevant material can be found
