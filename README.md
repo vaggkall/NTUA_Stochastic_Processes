@@ -8,7 +8,8 @@ The main site of the course, where you can find the book together with other
 relevant material can be found
 [here](http://mycourses.ntua.gr/course_description/index.php?cidReq=SEMFE1120)
 For a Greek version of the instruction guide check out [Odigies.pdf](Odigies.pdf).
-
+For an English version of the lab, **replace** the notebooks in the main directory 
+with those in the `English_version` directory.
 
 ## Contents
 
@@ -183,3 +184,4 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 * Author: Theodore Sakellaropoulos
 * Editor: Michail Loulakis
+
